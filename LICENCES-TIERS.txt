@@ -1,0 +1,28 @@
+Pet Assist — composants tiers inclus
+====================================
+
+Pet Assist (c) MCF Studio. Ce logiciel inclut les composants suivants, distribués selon leurs licences.
+
+YOLOX (modèle de détection « yolox_m.onnx »)
+  (c) Megvii Inc. — Licence Apache 2.0
+  https://github.com/Megvii-BaseDetection/YOLOX
+  Le modèle est utilisé tel que publié (entraîné sur COCO), sans modification.
+
+ONNX Runtime
+  (c) Microsoft Corporation — Licence MIT
+  https://github.com/microsoft/onnxruntime
+
+DirectML (DirectML.dll)
+  (c) Microsoft Corporation — Licence MIT
+  https://github.com/microsoft/DirectML
+
+OpenH264 (décodage vidéo H.264, compilé depuis les sources)
+  (c) Cisco Systems, Inc. — Licence BSD 2 clauses
+  https://github.com/cisco/openh264
+
+Tauri, WebView2 et bibliothèques Rust (axum, tokio, rodio, retina, xcap, image, serde…)
+  Licences MIT et/ou Apache 2.0 — voir https://crates.io pour chaque bibliothèque.
+
+Licence Apache 2.0 : https://www.apache.org/licenses/LICENSE-2.0
+Licence MIT : https://opensource.org/licenses/MIT
+Licence BSD 2 clauses : https://opensource.org/licenses/BSD-2-Clause
