@@ -32,6 +32,6 @@ zone interdite, ton enceinte lui dit ta phrase (« Au panier ! ») en boucle jus
 2. **Réglages → Enceinte** : choisis ton enceinte.
 3. **Zones** : « + Zone rouge » sur le canapé, « + Zone verte » sur le panier, écris ou enregistre la phrase.
 
-Détection d'objets : modèle **YOLOX** (Megvii, Apache-2.0). Licences des composants : [LICENCES-TIERS.txt](LICENCES-TIERS.txt).
+Détection d'objets : modèle **YOLOX** (Megvii, Apache-2.0). Licences des composants : [LICENCES-TIERS.txt](LICENCES-TIERS.txt). Décodage H.265 : FFmpeg (LGPL, [licence](ffmpeg-LICENSE.txt)).
 
 © MCF Studio

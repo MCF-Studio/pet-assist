@@ -16,6 +16,12 @@ DirectML (DirectML.dll)
   (c) Microsoft Corporation — Licence MIT
   https://github.com/microsoft/DirectML
 
+FFmpeg (ffmpeg.exe, décodage des flux H.265 et autres) — programme séparé, non modifié
+  (c) les développeurs de FFmpeg — Licence LGPL v3 (voir ffmpeg-LICENSE.txt)
+  Version compilée par BtbN/FFmpeg-Builds (variante « lgpl »).
+  Code source : https://ffmpeg.org/download.html et https://github.com/BtbN/FFmpeg-Builds
+  Tu peux remplacer ffmpeg.exe (dossier d'installation) par ta propre version compatible.
+
 OpenH264 (décodage vidéo H.264, compilé depuis les sources)
   (c) Cisco Systems, Inc. — Licence BSD 2 clauses
   https://github.com/cisco/openh264
