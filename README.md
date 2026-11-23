@@ -24,6 +24,7 @@ zone interdite, ton enceinte lui dit ta phrase (« Au panier ! ») en boucle jus
 - 📊 Journal avec une photo à chaque rappel, statistiques sur 14 jours.
 - 📱 Accessible depuis le **téléphone** sur le même wifi.
 - Tourne discrètement près de l'horloge, peut démarrer avec Windows.
+- ⬆️ **Se met à jour tout seul** : une fois installé, plus besoin de revenir ici.
 
 ## Démarrage rapide
 
